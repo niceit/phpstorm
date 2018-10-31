@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="assign_queue.php" type="PLAIN_TEXT" />
+      <mapping pattern="cmd" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="tiwg" type="PLAIN_TEXT" />
+      <mapping ext="py" type="Perl" />
+      <mapping pattern="boostrap_3_layout_input_group" type="Twig" />
+      <mapping pattern="node_elements_choices" type="Twig" />
+      <mapping pattern="zopim.html" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

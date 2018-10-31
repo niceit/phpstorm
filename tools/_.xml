@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="DB Force Studio MySQL" description="DB Force Studio MySQL" showInMainMenu="false" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Devart\dbForge Studio for MySQL\dbforgemysql.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Devart/dbForge Studio for MySQL" />
+    </exec>
+  </tool>
+  <tool name="Hash Calculation" description="Hash Calculation" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\HashCalc\HashCalc.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/HashCalc" />
+    </exec>
+  </tool>
+  <tool name="File Zilla" description="File Zilla" showInMainMenu="false" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\FileZilla FTP Client\filezilla.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/FileZilla FTP Client" />
+    </exec>
+  </tool>
+</toolSet>
