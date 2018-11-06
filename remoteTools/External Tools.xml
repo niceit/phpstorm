@@ -1,4 +1,11 @@
 <toolSet name="External Tools">
+  <tool name="Gymnadz Centos7 Branch Check" description="GIT PULL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="5a389de0-f4db-434a-9f34-a4a986498b68">
+    <exec>
+      <option name="COMMAND" value="git" />
+      <option name="PARAMETERS" value="branch" />
+      <option name="WORKING_DIRECTORY" value="/var/www/html/gymnads/gymnadz-api/gymnadz-api2" />
+    </exec>
+  </tool>
   <tool name="Gymnadz Centos7 Stash" description="GIT PULL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="5a389de0-f4db-434a-9f34-a4a986498b68">
     <exec>
       <option name="COMMAND" value="git" />
@@ -17,13 +24,6 @@
     <exec>
       <option name="COMMAND" value="git" />
       <option name="PARAMETERS" value="pull" />
-      <option name="WORKING_DIRECTORY" value="/var/www/html/gymnads/gymnadz-api/gymnadz-api2" />
-    </exec>
-  </tool>
-  <tool name="Gymnadz Centos7 Branch Check" description="GIT PULL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="5a389de0-f4db-434a-9f34-a4a986498b68">
-    <exec>
-      <option name="COMMAND" value="git" />
-      <option name="PARAMETERS" value="branch" />
       <option name="WORKING_DIRECTORY" value="/var/www/html/gymnads/gymnadz-api/gymnadz-api2" />
     </exec>
   </tool>
