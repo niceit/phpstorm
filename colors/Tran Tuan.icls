@@ -1,9 +1,13 @@
 <scheme name="Tran Tuan" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="11151e" />
+  </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
       <value>
@@ -20,6 +24,27 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc8c8" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="11151e" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f8fbff" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bf827" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="fffc12" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">

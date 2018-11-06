@@ -1,12 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -19,6 +12,11 @@
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="External Tools" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="All Actions" is_group="true" action_type="1" position="25">

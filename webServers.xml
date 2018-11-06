@@ -229,6 +229,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="5a389de0-f4db-434a-9f34-a4a986498b68" name="Copy of project-level server 'GymnadzApi Centos7'" url="http://centos7.local">
+        <fileTransfer host="centos7.local" port="22" rootFolder="/var/www/html/gymnads/gymnadz-api/gymnadz-api2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
