@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="Pending-Tran" type="PLAIN_TEXT" />
       <mapping pattern="dd.php" type="PLAIN_TEXT" />
       <mapping pattern="cmd" type="PLAIN_TEXT" />
       <mapping pattern="assign_queue.php" type="PLAIN_TEXT" />
