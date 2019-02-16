@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="ctp" type="PHP" />
+      <mapping pattern="frontend-get-properties-count" type="PLAIN_TEXT" />
+      <mapping pattern="note-from-A-to-B" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="sidebar-nav" type="Twig" />
+    </extensionMap>
+  </component>
+</application>

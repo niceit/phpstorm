@@ -1,0 +1,216 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Problems" color="ff0300" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.3.0" use-config-file="false">
+        <option asi="false" />
+        <option bitwise="true" />
+        <option boss="false" />
+        <option browser="true" />
+        <option camelcase="false" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="false" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option eqeqeq="true" />
+        <option eqnull="false" />
+        <option es3="false" />
+        <option esnext="false" />
+        <option evil="false" />
+        <option expr="false" />
+        <option forin="true" />
+        <option freeze="false" />
+        <option funcscope="false" />
+        <option globalstrict="false" />
+        <option immed="false" />
+        <option iterator="false" />
+        <option jquery="true" />
+        <option lastsemic="false" />
+        <option latedef="false" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option maxerr="50" />
+        <option mootools="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option newcap="false" />
+        <option noarg="true" />
+        <option node="false" />
+        <option noempty="true" />
+        <option nomen="false" />
+        <option nonew="true" />
+        <option nonstandard="false" />
+        <option notypeof="false" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="false" />
+        <option proto="false" />
+        <option prototypejs="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="false" />
+        <option shadow="false" />
+        <option smarttabs="false" />
+        <option strict="true" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option trailing="false" />
+        <option undef="true" />
+        <option unused="false" />
+        <option validthis="false" />
+        <option white="false" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="JSLintConfiguration" json="true">
+        <option maxerr="50" />
+        <option white="true" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="JSX" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <exe-path />
+        <config-path />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="Admin" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
+              </State>
+              <State>
+                <id>FrameworkPHP</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Yii2FrameworkPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Yii2FrameworkPHP</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="database.main" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="last_opened_file_path" value="/Applications/XAMPP/xamppfiles/htdocs/Ominicasa" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+        <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.standard" value="" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="SvnConfiguration" myUseAcceleration="nothing">
+        <configuration useDefault="false">C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VagrantSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+        <option name="vagrantExecutable" value="vagrant.bat" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="Yii2 Support">
+        <option name="yiiRootPath" value="/Applications/MAMP/htdocs/gymnadz-web" />
+        <option name="migrateCommands">
+          <list>
+            <MigrateCommand>
+              <option name="isDefault" value="true" />
+              <option name="command" value="migrate" />
+              <option name="migrationTable" value="{{%migration}}" />
+              <option name="db" value="db" />
+              <option name="migrationPath">
+                <list>
+                  <option value="@app/migrations" />
+                </list>
+              </option>
+            </MigrateCommand>
+          </list>
+        </option>
+        <option name="aliasMap">
+          <map>
+            <entry key="@webroot" value="@app/web" />
+            <entry key="@vendor" value="vendor" />
+            <entry key="@runtime" value="@app/runtime" />
+            <entry key="@yii2support-console-command-app-root" value="" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

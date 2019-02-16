@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Navicat" description="Navicat MySQL Client" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Navicat Premium.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+  <tool name="File Zilla" description="Ftp Client" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/FileZilla.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+  <tool name="Xampp Control" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/XAMPP/xamppfiles/manager-osx.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications/XAMPP/xamppfiles" />
+    </exec>
+  </tool>
+</toolSet>
