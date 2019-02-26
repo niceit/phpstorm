@@ -11,6 +11,9 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <colors>
+    <option name="MODIFIED_LINES_COLOR" value="e0550a" />
+  </colors>
   <attributes>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
