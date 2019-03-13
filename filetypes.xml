@@ -5,6 +5,7 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="note-from-A-to-B" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="frontend-get-properties-count" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="sidebar-nav" type="Twig" />
