@@ -3,107 +3,11 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/illusio/2028nov.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/tranit/jon-la.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mrcnab/admin.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/soufiane_illusio/1904pmr.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/tranit/marcus-tagavent-beta.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/illusio/2104ait.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/tranit/pretty-s3-cloud-file-manager.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/memreas/memreas-dev-php-frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/memreas/memreas-dev-php-stripe.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/tranit/prettys3filemanagerv2.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://omniweb@bitbucket.org/omniweb/webmaroc-4910-www.sidimex.be.git/wiki" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/omniweb/joomla-templates.git/wiki" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/tranit/sebastien-ote-1.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="niceit" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/omniweb/multimmo2017-web.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/niceit/2107-ecrin.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/ybiri/textleads.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/niceit/tedasia-teoxane.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/niceit/vela-campaign.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/ketoprak/auctionreporters.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="mrcnab@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://niceit@bitbucket.org/niceit/amazon-admin-html-template.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="niceit" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/abhayjb/basepack.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/niceit/blogit-2019.git" />
+          <option name="url" value="https://github.com/niceit/Ultimate-Media-On-The-Cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WebProjects\Projects\BlogIt 2019" />
+    <option name="cloneParentDir" value="D:\WebProjects\Projects" />
   </component>
 </application>
