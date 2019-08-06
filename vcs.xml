@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/niceit/Ultimate-Media-On-The-Cloud-Lite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/niceit/phprockets-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WebProjects\Projects" />
