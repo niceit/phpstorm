@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="d913b529-fc88-49a7-8174-35b796325a90" name="Tran Centos">
+        <fileTransfer host="" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="6f2eaceb-a675-4ee4-b50b-8eddb0a5a298" name="1799diago" url="http://local.haqdiago">
         <fileTransfer mountedRoot="D:\WebProjects\xampp\htdocs\HaQaq\bitbucket\1799diago\1799diago" accessType="MOUNT" />
       </webServer>
