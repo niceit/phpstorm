@@ -5,6 +5,7 @@
       <mapping pattern="note-from-A-to-B" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="frontend-get-properties-count" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="php_errorlog" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
