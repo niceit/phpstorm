@@ -1,11 +1,11 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="niceit" />
-        </UrlAndUserName>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>
