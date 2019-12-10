@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="46a0e7208d" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_46a0e7208d.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_46a0e7208d.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="croppie" type="javaScript">
       <properties>
         <sourceFilesUrls>
