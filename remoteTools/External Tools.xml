@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="/var/www/html/qetoe/development/migrate.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
