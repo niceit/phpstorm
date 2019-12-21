@@ -1,19 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="10" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="tabsHeight" value="23" />
     <option name="accentColor" value="009688" />
-    <option name="userId" value="-6ec66271:16dcab2759c:-8000" />
-    <option name="version" value="4.11.0" />
+    <option name="userId" value="4d06eaa1:16f0e1f7741:-8000" />
+    <option name="version" value="4.11.2" />
   </component>
 </application>
