@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b9f0160-3546-40fa-bc3b-3816bc70c1cf" name="Centos 7" url="http://centos7.local">
+        <fileTransfer host="centos7.local" port="22" rootFolder="/var/www/html/qetoe/development" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
