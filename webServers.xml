@@ -1,12 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5b9f0160-3546-40fa-bc3b-3816bc70c1cf" name="Centos 7" url="http://centos7.local">
-        <fileTransfer host="centos7.local" port="22" rootFolder="/var/www/html/qetoe/development" accessType="SFTP">
+      <webServer id="3ed326a4-0766-42ba-8e2f-9ff28eb50b00" name="QetoeStaging" url="http://qetoe.cnabwebsolutions.com.au">
+        <fileTransfer host="qetoe.cnabwebsolutions.com.au" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
