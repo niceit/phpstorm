@@ -14,6 +14,10 @@
           <option name="url" value="https://gitlab.inginim.com/team-inginim/inginim_uob_emm-web-php.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.inginim.com/team-inginim/tac_uob_unica.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WebProjects\Projects\Kerin" />
