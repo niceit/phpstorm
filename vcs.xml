@@ -18,9 +18,13 @@
           <option name="url" value="https://gitlab.inginim.com/team-inginim/tac_uob_unica.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/niceit/vntranitco.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WebProjects\Projects\Kerin" />
+    <option name="cloneParentDir" value="D:\WebProjects\Projects\vn.tranit.co" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
