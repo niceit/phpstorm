@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="lamedb5" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="tv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
