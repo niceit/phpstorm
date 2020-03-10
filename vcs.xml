@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/niceit/vntranitco.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.inginim.com/team-inginim/ktph-projects/3ff-ktph-phpci.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WebProjects\Projects\vn.tranit.co" />
+    <option name="cloneParentDir" value="D:\WebProjects\Projects\Kerin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
