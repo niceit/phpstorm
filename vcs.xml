@@ -3,39 +3,18 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/mrcnab/qetoe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://github.com" />
           <option name="userName" value="niceit" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.inginim.com/team-inginim/uob-emm-php.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.inginim.com/team-inginim/inginim_uob_emm-web-php.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.inginim.com/team-inginim/tac_uob_unica.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/niceit/vntranitco.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.inginim.com/team-inginim/ktph-projects/3ff-ktph-phpci.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/niceit/shimara_hzrt_backoffice.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WebProjects\Projects\Kerin\Dung" />
+    <option name="cloneParentDir" value="C:\Users\TranIT Developer\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
