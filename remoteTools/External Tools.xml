@@ -1,12 +1,12 @@
 <toolSet name="External Tools">
-  <tool name="Cache Clear" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="0d2b5ef8-fb93-4dab-9fdc-889445f1f172">
+  <tool name="Cache Clear" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG">
     <exec>
       <option name="COMMAND" value="/var/www/html/qetoe/development/cache-clear.sh" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Migration Changes" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="0d2b5ef8-fb93-4dab-9fdc-889445f1f172">
+  <tool name="Migration Changes" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG">
     <exec>
       <option name="COMMAND" value="/var/www/html/qetoe/development/migrate.sh" />
       <option name="PARAMETERS" />
