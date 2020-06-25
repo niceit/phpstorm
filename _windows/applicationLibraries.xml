@@ -81,5 +81,20 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="MonthPicker" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kidsysco.github.io_jquery-ui-month-picker_MonthPicker.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kidsysco.github.io_jquery-ui-month-picker_MonthPicker.min.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
   </component>
 </application>
