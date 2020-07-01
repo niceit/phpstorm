@@ -1,5 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap-tagsinput" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap.bundle" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -133,6 +146,28 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@9.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="twitter-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.5_css_bootstrap-theme.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.5_css_bootstrap-theme.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="typeahead.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_typeahead.js_0.11.1_typeahead.bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_typeahead.js_0.11.1_typeahead.bundle.js" />
       </CLASSES>
       <SOURCES />
     </library>
