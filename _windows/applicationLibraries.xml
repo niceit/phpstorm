@@ -1,5 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap-tagsinput" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bootstrap-tagsinput.github.io_bootstrap-tagsinput_dist_bootstrap-tagsinput.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap.bundle" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -19,6 +32,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.8.0_Chart.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dataTables.bootstrap4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.20_js_dataTables.bootstrap4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.20_js_dataTables.bootstrap4.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -44,6 +68,22 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jquery-1.8.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.8.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.8.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.8.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="jquery-3.4.1" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -59,13 +99,30 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="jquery.dataTables" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.20_js_jquery.dataTables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.21_js_jquery.dataTables.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.20_js_jquery.dataTables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.21_js_jquery.dataTables.js" />
       </CLASSES>
       <SOURCES />
@@ -94,6 +151,39 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="sweetalert2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@9.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_sweetalert2@9.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="twitter-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.5_css_bootstrap-theme.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.5_css_bootstrap-theme.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="typeahead.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_typeahead.js_0.11.1_typeahead.bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_typeahead.js_0.11.1_typeahead.bundle.js" />
+      </CLASSES>
       <SOURCES />
     </library>
   </component>
