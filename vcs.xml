@@ -22,9 +22,13 @@
           <option name="url" value="https://gitlab.inginim.com/team-inginim/uob-emm-php" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ranf216/dbell-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Workspaces\PhpstormProjects\Inginim" />
+    <option name="cloneParentDir" value="F:\Workspaces\PhpstormProjects\Ran" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
