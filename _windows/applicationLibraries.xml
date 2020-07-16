@@ -1,5 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap-multiselect" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.codehim.com_demo_bootstrap-multiselect-dropdown_dist_css_bootstrap-multiselect.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.codehim.com_demo_bootstrap-multiselect-dropdown_dist_js_bootstrap-multiselect.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.codehim.com_demo_bootstrap-multiselect-dropdown_dist_css_bootstrap-multiselect.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.codehim.com_demo_bootstrap-multiselect-dropdown_dist_js_bootstrap-multiselect.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap-tagsinput" type="javaScript">
       <properties>
         <sourceFilesUrls>
