@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="lamedb5" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping ext="tv" type="PLAIN_TEXT" />
       <mapping ext="bk21may2020" type="PLAIN_TEXT" />
+      <mapping ext="tv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
